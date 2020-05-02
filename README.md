@@ -5,7 +5,7 @@
 [Philip Gaunitz](https://github.com/pgaunitz)
 
 ### Built with  
-**Front End:** React v.16.12.0, | CSS   
+**Front End:** JS | CSS   
 **Testing frameworks:** Cypress 
 **Deployed at:** [Netlify](https://condescending-kare-26ceac.netlify.app/) 
 
